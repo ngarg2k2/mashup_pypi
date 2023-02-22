@@ -16,5 +16,5 @@ pip install Mashup-Nipun-102003674
 ```
 
 ```
-python 102003674.py "Diljit Dosanjh" 20 20 102003674-output.mp3
+python 102003674.py "Diljit Dosanjh" 11 21 102003674-output.mp3
 ```
