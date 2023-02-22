@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/Mashup_Nipun_102003674.egg-info/PKG-INFO
+src/Mashup_Nipun_102003674.egg-info/SOURCES.txt
+src/Mashup_Nipun_102003674.egg-info/dependency_links.txt
+src/Mashup_Nipun_102003674.egg-info/top_level.txt
